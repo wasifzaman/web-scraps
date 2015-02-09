@@ -1,0 +1,1013 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"th",
+				"thumb"
+			],
+			[
+				"zoomed",
+				"zoomed_img"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"mult",
+				"multiple_match"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"But",
+				"Button"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"brw",
+				"brw2"
+			],
+			[
+				"teacher",
+				"teacher_list"
+			],
+			[
+				"stud",
+				"student_id"
+			],
+			[
+				"ca",
+				"cancel_button"
+			],
+			[
+				"save",
+				"save_button"
+			],
+			[
+				"pwfpt",
+				"pw_file_path_browse_button"
+			],
+			[
+				"widget",
+				"widget_frame"
+			],
+			[
+				"widg",
+				"widget_frame"
+			],
+			[
+				"tra",
+				"translate"
+			],
+			[
+				"eng",
+				"english"
+			],
+			[
+				"lab",
+				"label"
+			],
+			[
+				"searc",
+				"search"
+			],
+			[
+				"bsd",
+				"bssdb"
+			],
+			[
+				"bssc",
+				"bsscan2"
+			],
+			[
+				"gri",
+				"grid"
+			],
+			[
+				"D",
+				"Dock"
+			],
+			[
+				"hover",
+				"hover_bg"
+			],
+			[
+				"fil",
+				"file_"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"cur",
+				"curmarkerfile"
+			],
+			[
+				"Pass",
+				"Password"
+			],
+			[
+				"Prit",
+				"Print"
+			],
+			[
+				"prt",
+				"print_reports_toggle"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"student",
+				"student_id"
+			],
+			[
+				"sear",
+				"search_button"
+			],
+			[
+				"teac",
+				"teacher_table"
+			],
+			[
+				"dat",
+				"date_of_birth"
+			],
+			[
+				"l",
+				"last_name"
+			],
+			[
+				"att",
+				"attinfo"
+			],
+			[
+				"stude",
+				"student"
+			],
+			[
+				"return",
+				"return_to_main"
+			],
+			[
+				"STu",
+				"StudentDB"
+			],
+			[
+				"widge",
+				"widget_frame"
+			],
+			[
+				"cell_p",
+				"cell_phone_2"
+			],
+			[
+				"adr",
+				"address"
+			],
+			[
+				"note",
+				"notes"
+			],
+			[
+				"chin",
+				"chinese_name"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"set",
+				"set_up_single_option"
+			],
+			[
+				"row_co",
+				"row_color_alt"
+			],
+			[
+				"card",
+				"card_print_status"
+			],
+			[
+				"engl",
+				"english_to_chinese"
+			],
+			[
+				"chec",
+				"checked-in"
+			],
+			[
+				"sco",
+				"scroll_region"
+			],
+			[
+				"scro",
+				"scroll_region"
+			],
+			[
+				"new",
+				"newdata"
+			],
+			[
+				"pad",
+				"padx"
+			],
+			[
+				"cell",
+				"cell_id"
+			],
+			[
+				"cons",
+				"constext"
+			],
+			[
+				"prbr",
+				"print_report_by_range_simple"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"ask",
+				"askdirectory"
+			],
+			[
+				"title_",
+				"title_frame"
+			],
+			[
+				"te",
+				"temp1234_pw"
+			],
+			[
+				"imag",
+				"images"
+			],
+			[
+				"ex",
+				"excludelist"
+			],
+			[
+				"inclu",
+				"includedirs"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"convert",
+				"convert_to_encrypted"
+			],
+			[
+				"impor",
+				"import"
+			],
+			[
+				"im",
+				"importwiz"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"import",
+				"importwiz"
+			],
+			[
+				"pwfi",
+				"pw_file_textbox"
+			],
+			[
+				"dbf",
+				"db_file_textbox"
+			],
+			[
+				"langu",
+				"language"
+			],
+			[
+				"Text",
+				"TextboxNoEdit"
+			],
+			[
+				"pwf",
+				"pw_fpath"
+			],
+			[
+				"pw_f",
+				"pw_file_name"
+			],
+			[
+				"source",
+				"source_path"
+			],
+			[
+				"dest",
+				"dest_path"
+			],
+			[
+				"text",
+				"textbox"
+			],
+			[
+				"main",
+				"main_window_"
+			],
+			[
+				"d",
+				"database"
+			],
+			[
+				"Schoo",
+				"SCHOOL_ABBERVIATIONS"
+			],
+			[
+				"S",
+				"SCHOOL_ABBERVIATIONS"
+			],
+			[
+				"consec",
+				"consecutive_checkin"
+			],
+			[
+				"Chec",
+				"Check-in"
+			],
+			[
+				"tim",
+				"time_"
+			],
+			[
+				"print",
+				"print_report_by_date"
+			],
+			[
+				"printrer",
+				"print_report_button"
+			],
+			[
+				"ti",
+				"time_"
+			],
+			[
+				"entr",
+				"entry_not_found"
+			],
+			[
+				"bco",
+				"bCodeNE"
+			],
+			[
+				"pack",
+				"pack_forget"
+			],
+			[
+				"am_pm",
+				"am_pm_input"
+			],
+			[
+				"retu",
+				"return_"
+			],
+			[
+				"confw",
+				"confirm_overwrite_checkin"
+			],
+			[
+				"self",
+				"selfframe"
+			],
+			[
+				"sef",
+				"selfframe"
+			],
+			[
+				"transla",
+				"translations"
+			],
+			[
+				"re",
+				"recursion_test"
+			],
+			[
+				"trn",
+				"translation_lib"
+			],
+			[
+				"prin",
+				"print_payment_report"
+			],
+			[
+				"prit",
+				"print_payment_report"
+			],
+			[
+				"savea",
+				"save_attendance"
+			],
+			[
+				"chang",
+				"change_db"
+			],
+			[
+				"create",
+				"create_new_db"
+			],
+			[
+				"cre",
+				"create_open_database"
+			],
+			[
+				"impo",
+				"import_from_xlsx_"
+			],
+			[
+				"pay",
+				"payment_info"
+			],
+			[
+				"col",
+				"column_name"
+			],
+			[
+				"column",
+				"column_associations"
+			],
+			[
+				"destin",
+				"destination_path"
+			],
+			[
+				"conver",
+				"convert_xlsx_to_db"
+			],
+			[
+				"talb",
+				"table_columns_"
+			],
+			[
+				"mess",
+				"message_strings"
+			],
+			[
+				"message",
+				"message_string"
+			],
+			[
+				"retur",
+				"return_value"
+			],
+			[
+				"butt",
+				"button_props"
+			],
+			[
+				"tit",
+				"title_"
+			],
+			[
+				"mes",
+				"message_template"
+			],
+			[
+				"title",
+				"title_frame"
+			],
+			[
+				"messag",
+				"message_template"
+			],
+			[
+				"messg",
+				"message"
+			],
+			[
+				"paym",
+				"payment_query"
+			],
+			[
+				"colm",
+				"column_widths"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/xampp/htdocs/projects/web-scraps/contact_list/index.php",
+			"settings":
+			{
+				"buffer_size": 451,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 110.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"them",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packco: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/xampp/htdocs/projects/web-scraps/contact_list"
+	],
+	"file_history":
+	[
+		"/E/xampp/htdocs/projects/scraps/contact_list/script.js",
+		"/E/xampp/htdocs/projects/scraps/contact_list/db_input.php",
+		"/E/xampp/htdocs/projects/scraps/contact_list/index.php",
+		"/E/xampp/htdocs/projects/scraps/contact_list/stylesheet.css",
+		"/E/xampp/mysql/bin/my.ini",
+		"/C/Users/Bipro/Documents/GitHub/scraps/contact_list/index.php",
+		"/C/Users/Bipro/Documents/GitHub/scraps/contact_list/index.html",
+		"/C/Users/Bipro/Documents/GitHub/scraps/contact_list/script.js",
+		"/C/Users/Bipro/Documents/GitHub/scraps/contact list/script.js",
+		"/C/Users/Bipro/Documents/GitHub/scraps/contact list/index.html",
+		"/C/Users/Bipro/Documents/GitHub/scraps/website 1/script.js",
+		"/C/Users/Bipro/Documents/GitHub/scraps/website 1/stylesheet.css",
+		"/C/Users/Bipro/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Bipro/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Bipro/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/E/Program Files/fire.app/projects/test/index.html",
+		"/C/Users/Bipro/AppData/Roaming/Sublime Text 3/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/make.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/database/print_reports.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/edit_salary.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/deny_messages.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/miscellaneous/languages.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/ryb_attendance.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/student_picker.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/sdb_salrep.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/sDb22.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms_cleaned/windows/sDb22.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms_cleaned/windows/sdb_salrep.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/widgets/seek_category.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/scanS22.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/scanOut.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms_cleaned/make.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/setup.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms_cleaned/setup.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/database/dataHandler.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/database/timeclock.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/database/student.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/widgets/textbox.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms_cleaned/windows/ryb_attendance.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_sms/dataHandler.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_sms/RYB Attendance.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms_cleaned/windows/edit_salary.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/uiHandler22.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms_cleaned/widgets/tableWidget2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/widgets/tableWidget2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/addS3.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/inquiry_messages.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/password_prompt.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/tools2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/convert_to_encrypted.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/create_new_db.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/importwiz.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/editS2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/date_to_date.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/mbox2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/master_list.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/password_prompt.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/date_time_entry.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/time_entry.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/miscellaneous/translations.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/accepted_messages.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/choose_school.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/widgets/button.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/widgets/toggle_option.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/widgets/date_textbox.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/database/keeper.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/test.py",
+		"/C/Users/Bipro/Documents/GitHub/scraps/student_database_frame_version.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/student_database_fram_version.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/miscellaneous/find_all.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/miscellaneous/translate_.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/widgets/simple_label.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/widgets/multiline_textbox.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/widgets/toggle_choice.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/windows/create_new_markerfile.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/miscellaneous/preBuilts2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_sms/preBuilts2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_sms/sDb22.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_sms/tableWidget2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_sms/scanS22.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/widgets/table_widget.py",
+		"/C/Users/Bipro/Documents/GitHub/Project-RYB/widgets/table.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/widgets/photoWidget2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/widgets/widget.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/config.ini",
+		"/C/python34x86/lib/tkinter/__init__.py",
+		"/C/Users/Bipro/Documents/GitHub/Project-RYB/widgets/button.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_sms/languages.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/choose_school.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/neutral_messages.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/unwrapper.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/unwrapped/setup.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/unwrapped/ryb_attendance.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/unwrapped/dataHandler.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/root.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/ryb_attendance.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/setup_py2_exe.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/build/exe.win32-3.4/windows/edit_salary.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/build/exe.win32-3.4/database/dataHandler.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/build/exe.win32-3.4/keeper.db",
+		"/C/Users/Bipro/Documents/GitHub/ryb_sms/setup.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/RYB Attendance.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/ws_sm.png",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/timeclock.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/reset_check_in_row.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/keeper.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/languages.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/preBuilts2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/dataHandler.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/importwiz.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/choose_school",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/confirm_check_in_time.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/accepted_messages",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/messages windows/inquiry_messages",
+		"/C/python34x86/lib/site-packages/PIL/Image.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/tools2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/scanS22.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/photoWidget2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/uiHandler22.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/tableWidget2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/labelWidgets2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/edit_salary.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/editS2.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/sDb22.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/sdb_salrep.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/database/student_class.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/miscellaneous/print_reports.py",
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/addS3.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pass",
+			"user",
+			"print",
+			"setData",
+			"width",
+			"salary",
+			"s",
+			"window_.student_id",
+			"sby",
+			"setData",
+			"sby",
+			"window_.student_id",
+			"spicker",
+			"close_button",
+			"spicker",
+			"student_id",
+			"sby",
+			"student",
+			"s",
+			"data_points",
+			"dp",
+			"s",
+			"sby",
+			"t",
+			"w",
+			"t",
+			"d",
+			"w",
+			"setdata",
+			"lang[",
+			"manual",
+			"setData",
+			"window_.attinfo",
+			"attendance_table",
+			"window_.attinfo",
+			"attendance_table",
+			"window_.attinfo",
+			"setdata",
+			"for child in window_.frames[\"Eleventh Frame\"].winfo_children():\n			child.destroy()",
+			"build",
+			"tim",
+			"clock",
+			"timesheet",
+			"timeclock",
+			"timesheet",
+			"timeclock",
+			"attinfo",
+			"timeclock",
+			"sheet",
+			"shseet",
+			"timesheet",
+			"con",
+			"school",
+			"d",
+			"pickle",
+			"AES",
+			"new_db",
+			"rybdb",
+			"window_.frames[\"Confirm Frame\"]",
+			"pad",
+			"height",
+			"lang",
+			"notes.config",
+			"destroy",
+			"window_2",
+			"window_main",
+			"window_1.lang",
+			"lang",
+			"window_.lang",
+			"window_",
+			"pad",
+			"selfframe",
+			"setData",
+			"search_value",
+			"reset",
+			"edit_salary",
+			"w.lang",
+			"window_.lang",
+			"marker",
+			"pad",
+			"translate",
+			"password_prompt",
+			"ok",
+			"setData",
+			"set_width",
+			"manual",
+			"bCodeNE",
+			"pad",
+			"addwidget",
+			"check-out",
+			"confirm_date_range",
+			"confirm_time",
+			"translate(message_box",
+			"lang[",
+			"language",
+			"return",
+			"start date",
+			"Date",
+			"language",
+			"reset",
+			"print",
+			"ok",
+			"check-out",
+			"Cancel",
+			"cancel",
+			"enter",
+			"Check",
+			"no",
+			"yes",
+			"main",
+			"reset",
+			"confirm reset",
+			"reset",
+			"report",
+			"print",
+			"Overwrite Check-In",
+			"confirm",
+			"save",
+			"teacher",
+			"confirm",
+			"message_box.root.wait_window",
+			"hs",
+			"pad",
+			"print_coords",
+			"bclang",
+			"6",
+			"change",
+			"switc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/xampp/htdocs/projects/web-scraps/contact_list/index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 188.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "contact_list.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 386.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
