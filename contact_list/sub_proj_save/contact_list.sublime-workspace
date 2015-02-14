@@ -526,6 +526,14 @@
 				"buffer_size": 451,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "/E/xampp/htdocs/projects/web-scraps/contact_list/script.js",
+			"settings":
+			{
+				"buffer_size": 150,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -601,6 +609,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Bipro/Desktop/kimberly novod.txt",
 		"/E/xampp/htdocs/projects/scraps/contact_list/script.js",
 		"/E/xampp/htdocs/projects/scraps/contact_list/db_input.php",
 		"/E/xampp/htdocs/projects/scraps/contact_list/index.php",
@@ -727,8 +736,7 @@
 		"/C/Users/Bipro/Documents/GitHub/ryb_tms/sDb22.py",
 		"/C/Users/Bipro/Documents/GitHub/ryb_tms/sdb_salrep.py",
 		"/C/Users/Bipro/Documents/GitHub/ryb_tms/database/student_class.py",
-		"/C/Users/Bipro/Documents/GitHub/ryb_tms/miscellaneous/print_reports.py",
-		"/C/Users/Bipro/Documents/GitHub/ryb_tms/addS3.py"
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/miscellaneous/print_reports.py"
 	],
 	"find":
 	{
@@ -899,7 +907,7 @@
 				{
 					"buffer": 0,
 					"file": "/E/xampp/htdocs/projects/web-scraps/contact_list/index.php",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 451,
@@ -909,8 +917,8 @@
 						"selection":
 						[
 							[
-								62,
-								62
+								451,
+								451
 							]
 						],
 						"settings":
@@ -923,6 +931,34 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/xampp/htdocs/projects/web-scraps/contact_list/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
