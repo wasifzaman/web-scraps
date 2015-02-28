@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"show",
+				"show_task_form"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"task",
+				"task_id"
+			],
+			[
+				"tas",
+				"task_description"
+			],
+			[
 				"bg",
 				"background-color"
 			],
@@ -498,41 +514,58 @@
 			[
 				"title",
 				"title_frame"
-			],
-			[
-				"messag",
-				"message_template"
-			],
-			[
-				"messg",
-				"message"
-			],
-			[
-				"paym",
-				"payment_query"
-			],
-			[
-				"colm",
-				"column_widths"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/E/xampp/htdocs/projects/web-scraps/contact_list/index.php",
+			"file": "/E/xampp/htdocs/projects/web-scraps/tasker/index.php",
 			"settings":
 			{
-				"buffer_size": 451,
+				"buffer_size": 933,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/E/xampp/htdocs/projects/web-scraps/contact_list/script.js",
+			"file": "/E/xampp/htdocs/projects/web-scraps/tasker/script.js",
 			"settings":
 			{
-				"buffer_size": 150,
+				"buffer_size": 464,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/xampp/htdocs/projects/web-scraps/tasker/show_task.php",
+			"settings":
+			{
+				"buffer_size": 392,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/xampp/htdocs/projects/web-scraps/tasker/new_task.php",
+			"settings":
+			{
+				"buffer_size": 348,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/xampp/htdocs/projects/web-scraps/tasker/new_task_entry.php",
+			"settings":
+			{
+				"buffer_size": 386,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/xampp/htdocs/projects/web-scraps/tasker/build_db.php",
+			"settings":
+			{
+				"buffer_size": 657,
+				"line_ending": "Windows",
+				"name": "build_"
 			}
 		}
 	],
@@ -605,10 +638,16 @@
 	},
 	"expanded_folders":
 	[
-		"/E/xampp/htdocs/projects/web-scraps/contact_list"
+		"/E/xampp/htdocs/projects/web-scraps/tasker"
 	],
 	"file_history":
 	[
+		"/E/xampp/htdocs/projects/web-scraps/tasker/stylesheet.css",
+		"/E/xampp/htdocs/projects/web-scraps/tasker/new_task_entry.php",
+		"/E/xampp/htdocs/projects/web-scraps/tasker/db_input.php",
+		"/E/xampp/htdocs/projects/web-scraps/tasker/script.js",
+		"/E/xampp/htdocs/projects/web-scraps/contact_list/script.js",
+		"/E/xampp/htdocs/projects/web-scraps/contact_list/index.php",
 		"/C/Users/Bipro/Desktop/kimberly novod.txt",
 		"/E/xampp/htdocs/projects/scraps/contact_list/script.js",
 		"/E/xampp/htdocs/projects/scraps/contact_list/db_input.php",
@@ -730,13 +769,7 @@
 		"/C/Users/Bipro/Documents/GitHub/ryb_tms/photoWidget2.py",
 		"/C/Users/Bipro/Documents/GitHub/ryb_tms/uiHandler22.py",
 		"/C/Users/Bipro/Documents/GitHub/ryb_tms/tableWidget2.py",
-		"/C/Users/Bipro/Documents/GitHub/ryb_tms/labelWidgets2.py",
-		"/C/Users/Bipro/Documents/GitHub/ryb_tms/edit_salary.py",
-		"/C/Users/Bipro/Documents/GitHub/ryb_tms/editS2.py",
-		"/C/Users/Bipro/Documents/GitHub/ryb_tms/sDb22.py",
-		"/C/Users/Bipro/Documents/GitHub/ryb_tms/sdb_salrep.py",
-		"/C/Users/Bipro/Documents/GitHub/ryb_tms/database/student_class.py",
-		"/C/Users/Bipro/Documents/GitHub/ryb_tms/miscellaneous/print_reports.py"
+		"/C/Users/Bipro/Documents/GitHub/ryb_tms/labelWidgets2.py"
 	],
 	"find":
 	{
@@ -755,6 +788,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"post",
 			"pass",
 			"user",
 			"print",
@@ -881,8 +915,7 @@
 			"print_coords",
 			"bclang",
 			"6",
-			"change",
-			"switc"
+			"change"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -901,24 +934,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/E/xampp/htdocs/projects/web-scraps/contact_list/index.php",
+					"file": "/E/xampp/htdocs/projects/web-scraps/tasker/index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 451,
+						"buffer_size": 933,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								451,
-								451
+								914,
+								914
 							]
 						],
 						"settings":
@@ -930,35 +963,154 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/E/xampp/htdocs/projects/web-scraps/contact_list/script.js",
+					"file": "/E/xampp/htdocs/projects/web-scraps/tasker/script.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 150,
+						"buffer_size": 464,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								150,
-								150
+								462,
+								462
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/xampp/htdocs/projects/web-scraps/tasker/show_task.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/xampp/htdocs/projects/web-scraps/tasker/new_task.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/E/xampp/htdocs/projects/web-scraps/tasker/new_task_entry.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								338
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/E/xampp/htdocs/projects/web-scraps/tasker/build_db.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"auto_name": "build_",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
